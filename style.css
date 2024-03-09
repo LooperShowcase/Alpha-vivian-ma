@@ -1,0 +1,42 @@
+h1 {
+  color: aqua;
+}
+p {
+  font-family: "Noto Sans Egyptian Hieroglyphs", sans-serif;
+  font-family: "Playfair Display", serif;
+}
+
+div {
+  background-color: rgb(37, 186, 228);
+}
+div {
+  background-color: rgb(124, 0, 207);
+}
+body{
+  background-color: rgb(70, 165, 243);
+}
+#start-div{
+background-color: rgb(194, 13, 155);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #76ff78;
